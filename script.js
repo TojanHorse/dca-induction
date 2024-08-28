@@ -9,7 +9,7 @@ const participants = {
     "Harshit Bisht", "Amay Bist", "Himanshu Mawdi", "Shardul Raturi", "Ankita Shailly",
     "Amisha Panwar", "Kumari Ritu", "Jay Jee Pragya", "Sherya Ojha", "Divya Adhikari",
     "Hemang Rana", "Devashish Singh", "Ananya Gilotra", "Anant Gupta", "Aastha Rawat",
-    "Suhani Gupta", "Soumya Chauhan", "Ashi Kamboj", "Tanya Bobal"
+    "Suhani Gupta", "Soumya Chauhan", "Ashi Kamboj", "Tanya Bobal" , " Siddhant Kala"
   ],
   organizer: [
     "Rahul Bijalwan", "Sneha Payal", "Bobby Singh", "Shrishti Chauhan", "Palak Verma",
